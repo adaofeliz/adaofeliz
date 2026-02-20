@@ -23,21 +23,11 @@ Currently building the technology foundation for large-scale EV charging infrast
 
 ## Old and Legacy
 - **dropbox-uploader** - Java/Spring MVC service for uploading files to Dropbox.
-- **GP19-AWSHackathon2014** - Base repository for a hackathon project.
 - **mail-web-schedule** - Local service for downloading and emailing web pages.
 - **papi** - Personal API.
 - **rails-time-service** - Rails Time - Train Simulator.
 - **spring-mvc-without-xml-configuration** - Example of Spring MVC without XML configuration.
 - **update-hosts** - Script to update hosts file.
-
-## Exploration Work
-- **docker-springboot-ebs** - Deploying Spring Boot to AWS Elastic Beanstalk via Docker.
-- **ip-lookup** - Spring Boot web app for IP address lookup.
-- **link-shortener** - Simple shortener REST service.
-- **quartz-elasticsearch-jobstore** - Job store for Quartz with Elasticsearch.
-- **spring-boot-maven-docker** - Deployment example for Spring Boot with Maven and Docker.
-- **spring-boot-web-mvn** - Spring Boot sample web app using Maven.
-- **springboot-azure-example** - Spring Boot deployment to Azure Web Apps.
 
 ---
 
@@ -53,7 +43,7 @@ Currently building the technology foundation for large-scale EV charging infrast
 ### Background
 - 15+ years as a builder, software architect, engineering manager, and technology leader
 - Founded **Bright Technologies**, acquired by Sword Health in 2021
-- Senior Software Architect at **Airchat** (founded by ex-Tinder CPO)
+- Senior Software Architect at **Airchat** (founded by ex-Tinder CPO - Brian Norgard and Naval Ravikant)
 - Advisor to early-stage teams on product strategy, architecture, and technical due diligence
 - Currently leading technology strategy and delivery at **Powerdot** across Europe
 
@@ -61,11 +51,11 @@ Currently building the technology foundation for large-scale EV charging infrast
 > Build systems that scale before the business forces you to. Good architecture is a competitive advantage, not a cost centre.
 
 <details>
-<summary>A few more things</summary>
-
-- Portuguese, based in the Powerdot world
-- Believe the best technical leaders write code and understand the business in equal measure
-- Driven by the intersection of climate tech and engineering excellence. Profoundly proud of what I'm building.
-- Approach team building the same way I approach architecture: design for growth, remove single points of failure, target long-term scalability
+  <summary>A few more things</summary>
+  
+  - Portuguese, based in the Powerdot world
+  - Believe the best technical leaders write code and understand the business in equal measure
+  - Driven by the intersection of climate tech and engineering excellence. Profoundly proud of what I'm building.
+  - Approach team building the same way I approach architecture: design for growth, remove single points of failure, target long-term scalability
 
 </details>
