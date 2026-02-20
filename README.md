@@ -33,10 +33,12 @@ Currently building the technology foundation for large-scale EV charging infrast
 
 <details>
   <summary>A few more things</summary>
+  
   - Portuguese, based in the Powerdot world
   - Believe the best technical leaders write code and understand the business in equal measure
   - Driven by the intersection of climate tech and engineering excellence. Profoundly proud of what I'm building.
   - Approach team building the same way I approach architecture: design for growth, remove single points of failure, target long-term scalability
+  
 </details>
 
 ---
