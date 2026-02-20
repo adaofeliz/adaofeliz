@@ -38,7 +38,6 @@ Currently building the technology foundation for large-scale EV charging infrast
 - Asset telemetry, maintenance systems, and field performance at scale
 - Technical strategy aligned to growth and unit economics
 
----
 
 ### Background
 - 15+ years as a builder, software architect, engineering manager, and technology leader
