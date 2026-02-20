@@ -1,55 +1,71 @@
-# Adão 👋
+# Hi, I'm Adão 👋
+📍 Portugal | CTO at [Powerdot](https://powerdot.com)
 
-📍 Portugal | ⚡ Polyvalent builder | CTO at Powerdot
+15+ years designing distributed systems, scaling platforms, and leading engineering teams.
+Currently building the technology foundation for large-scale EV charging infrastructure across Europe.
 
-TypeScript Node.js Go Python Docker React Next.js AI CLI macOS
+## What I'm Working On
 
-Building the future of EV charging infrastructure at Powerdot. Exploring and shipping AI-powered developer tools, system architecture, and scalable solutions.
+- **Powerdot** - Leading technology strategy for 3,500+ charging locations and 15,000+ charging
+  points across Europe. Owning OCPP and OCPI platforms covering interoperability, tariffs,
+  roaming, and security.
+- **Charging standards** - Contributing to Autocharge with MSP roaming, Cloud Load Management
+  approaches, and OCPP Gateway open source efforts.
+- **Industry community** - Publishing whitepapers and participating in CPO standards and
+  innovation forums.
 
-## Current Projects & Focus
+## Somehow Functional Vibe Coded Apps
+- **gcalendar-webhook-cli** - CLI for Google Calendar webhooks.
 
-*   **OpenClaw** - The AI assistant that streamlines operations and development.
-*   **Powerdot** - Leading technology architecture for a Charge Point Operator with 3,500+ locations across Europe. Focus on scalable systems and EV charging infrastructure.
-*   **Tududi** - Self-hosted task management for individuals and teams, valuing privacy, control, and efficiency.
-*   **Mindwtr** - A full GTD system for desktop and mobile.
-*   **whatsapp-agent-web** - AI-powered analytics and messaging for WhatsApp.
-*   **life-in-weeks** - Visual representation of life, week by week.
+## Broken Vibe Coded Apps
+- **calendar-task-sync** - Automatic task scheduling between systems.
+- **vsco-profile-backup-cli** - CLI to backup VSCO profiles.
 
-## Prototypes & Code Examples
+## Old and Legacy
+- **dropbox-uploader** - Java/Spring MVC service for uploading files to Dropbox.
+- **GP19-AWSHackathon2014** - Base repository for a hackathon project.
+- **mail-web-schedule** - Local service for downloading and emailing web pages.
+- **papi** - Personal API.
+- **rails-time-service** - Rails Time - Train Simulator.
+- **spring-mvc-without-xml-configuration** - Example of Spring MVC without XML configuration.
+- **update-hosts** - Script to update hosts file.
 
-*   **adaofeliz.github.io** - Personal website.
-*   **vsco-profile-backup-cli** - CLI to backup VSCO profiles.
-*   **calendar-task-sync** - Automatic task scheduling between systems.
-*   **gcalendar-webhook-cli** - CLI for Google Calendar webhooks.
-*   **metamcp** - MCP Aggregator, Orchestrator, Middleware, Gateway.
-*   **planka-mcp / planka-n8n-workflows** - Automation frameworks.
-*   **ha-whatsapp-addon** - Home Assistant WhatsApp Add-on.
-*   **thrive** - Goals management system.
-*   **GPS Smartwatch Data Collector** - Garmin Data Collector & Life Performance Dashboard. (Manual description, as it was `garmin-data-collector`)
-*   **SunFounder_PiCar-V** - Smart Video Car Kit for Raspberry Pi.
-*   **update-hosts** - Script to update hosts file.
-*   **mail-web-schedule** - Local service for downloading and emailing web pages.
-*   **springboot-azure-example** - Example of Springboot deployment to Azure.
-*   **docker-springboot-ebs** - Example of deploying Springboot with Docker to AWS Elastic Beanstalk.
-*   **ip-lookup** - Spring Boot Web Application for IP lookup.
-*   **link-shortener** - Simple URL shortener REST service.
-*   **spring-boot-web-mvn** - Sample Spring-boot Web Application using Maven.
-*   **quartz-elasticsearch-jobstore** - Job store for Quartz with Elasticsearch.
-*   **spring-boot-maven-docker** - Deployment example for Spring Boot with Maven and Docker.
-*   **GP19-AWSHackathon2014** - Base repository for a hackathon project.
-*   **spring-mvc-without-xml-configuration** - Example of Spring MVC without XML configuration.
-*   **dropbox-uploader** - Java/Spring MVC service for uploading files to Dropbox.
-*   **springmvc-web-sample** - Sample Spring MVC application.
-*   **rails-time-service** - Rails Time - Train Simulator.
-*   **papi** - Personal API.
+## Exploration Work
+- **docker-springboot-ebs** - Deploying Spring Boot to AWS Elastic Beanstalk via Docker.
+- **ip-lookup** - Spring Boot web app for IP address lookup.
+- **link-shortener** - Simple shortener REST service.
+- **quartz-elasticsearch-jobstore** - Job store for Quartz with Elasticsearch.
+- **spring-boot-maven-docker** - Deployment example for Spring Boot with Maven and Docker.
+- **spring-boot-web-mvn** - Spring Boot sample web app using Maven.
+- **springboot-azure-example** - Spring Boot deployment to Azure Web Apps.
 
-## Archived Work
+---
 
-*   **springboot-azure-example** - Springboot deployment to Azure Web Apps Example.
-*   **docker-springboot-ebs** - Deploying Springboot Application to AWS Elastic Beanstalk from a Docker Container.
-*   **ip-lookup** - Spring Boot Web Application for ip address lookup.
-*   **link-shortener** - Simple shortener REST service.
-*   **spring-boot-web-mvn** - Spring-boot Sample Web Application using Maven.
-*   **quartz-elasticsearch-jobstore** - Job store for Quartz with Elasticsearch.
+## Focus Areas
+- OCPP and OCPI platform architecture for interoperability, tariffs, roaming, and security
+- Scalable backend systems for real-time session management, pricing, and settlement
+- Uptime SLOs, observability standards, and incident response practices
+- Asset telemetry, maintenance systems, and field performance at scale
+- Technical strategy aligned to growth and unit economics
 
-(Note: I've inferred descriptions for projects without them and categorized them. The archived projects are listed separately to reflect their status.)
+---
+
+### Background
+- 15+ years as a builder, software architect, engineering manager, and technology leader
+- Founded **Bright Technologies**, acquired by Sword Health in 2021
+- Senior Software Architect at **Airchat** (founded by ex-Tinder CPO)
+- Advisor to early-stage teams on product strategy, architecture, and technical due diligence
+- Currently leading technology strategy and delivery at **Powerdot** across Europe
+
+### Philosophy
+> Build systems that scale before the business forces you to. Good architecture is a competitive advantage, not a cost centre.
+
+<details>
+<summary>A few more things</summary>
+
+- Portuguese, based in the Powerdot world
+- Believe the best technical leaders write code and understand the business in equal measure
+- Driven by the intersection of climate tech and engineering excellence. Profoundly proud of what I'm building.
+- Approach team building the same way I approach architecture: design for growth, remove single points of failure, target long-term scalability
+
+</details>
