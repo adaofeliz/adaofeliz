@@ -38,6 +38,7 @@ Currently building the technology foundation for large-scale EV charging infrast
   - Driven by the intersection of climate tech and engineering excellence. Profoundly proud of what I'm building.
   - Approach team building the same way I approach architecture: design for growth, remove single points of failure, target long-term scalability
 </details>
+
 ---
 
 ## Somehow Functional Vibe Coded Apps
