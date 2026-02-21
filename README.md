@@ -26,11 +26,11 @@ Currently building the technology foundation for large-scale EV charging infrast
 
 ### Background
 - 15+ years as a builder, software architect, engineering manager, and technology leader
-- Founded **Bright Technologies**, acquired by Sword Health in 2021
-- Senior Software Architect at **Airchat** (founded by ex-Tinder CPO - Brian Norgard and Naval Ravikant)
 - Advisor to early-stage teams on product strategy, architecture, and technical due diligence
+- Founded YMedia, a web agency and automaded online ads service, failed hard in 2018
+- Founded **Bright Technologies**, acquired by Sword Health in 2021
+- Software Architect for **Airchat** (founded by ex-Tinder CPO - Brian Norgard and Naval Ravikant)
 - Currently leading technology strategy and delivery at **Powerdot** across Europe
-
 
 <details>
   <summary>A few more things</summary>
