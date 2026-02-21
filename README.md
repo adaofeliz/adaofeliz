@@ -43,18 +43,27 @@ Currently building the technology foundation for large-scale EV charging infrast
 
 ---
 
-## Somehow Functional Vibe Coded Apps
+## Functional Vibe Coded Apps
 - **gcalendar-webhook-cli** - CLI for Google Calendar webhooks.
+- **life-in-weeks** - A visual representation of a 90-year human life where each box is one week.
 
 ## Broken Vibe Coded Apps
 - **calendar-task-sync** - Automatic task scheduling between systems.
+- **open-webui-mcp** - A MCP for managing projects, notes, and knowledge bases in OpenWebUI
 - **vsco-profile-backup-cli** - CLI to backup VSCO profiles.
+- **whatsapp-agent-web** - WhatsApp analytics and messaging web app with AI-powered insights
 
-## Old and Legacy
-- **dropbox-uploader** - Java/Spring MVC service for uploading files to Dropbox.
-- **mail-web-schedule** - Local service for downloading and emailing web pages.
+## Unfinished Projects 
 - **papi** - Personal API.
 - **rails-time-service** - Rails Time - Train Simulator.
+
+## Archive / Legacy / Old
+- **dropbox-uploader** - Java/Spring MVC service for uploading files to Dropbox.
+- **ip-lookup** - Java/Spring MVC web app for ip address lookup using MaxMind GeoIP2.
+- **link-shortener** - Java/Spring MCV rest url shortener service.
+- **springboot-azure-example** - Deploying Example Springboot to Azure Web Apps.
+- **docker-springboot-ebs** - Deploying Example Springboot to AWS EBS.
+- **spring-boot-maven-docker** - Example of a Springboot app being run as a docker container.
 - **spring-mvc-without-xml-configuration** - Example of Spring MVC without XML configuration.
-- **update-hosts** - Script to update hosts file.
+- **springmvc-web-sample** - Another Spring MVC Sample.
 
