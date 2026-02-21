@@ -4,6 +4,9 @@
 15+ years designing distributed systems, scaling platforms, and leading engineering teams.
 Currently building the technology foundation for large-scale EV charging infrastructure across Europe.
 
+### Philosophy
+> Build systems that scale before the business forces you to. Good architecture is a competitive advantage, not a cost centre.
+
 ## What I'm Working On
 
 - **Powerdot** - Leading technology strategy for 3,500+ charging locations and 15,000+ charging
@@ -28,8 +31,6 @@ Currently building the technology foundation for large-scale EV charging infrast
 - Advisor to early-stage teams on product strategy, architecture, and technical due diligence
 - Currently leading technology strategy and delivery at **Powerdot** across Europe
 
-### Philosophy
-> Build systems that scale before the business forces you to. Good architecture is a competitive advantage, not a cost centre.
 
 <details>
   <summary>A few more things</summary>
